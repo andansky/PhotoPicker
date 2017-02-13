@@ -29,4 +29,5 @@ dependencies {
   compile 'jp.wasabeef:glide-transformations:2.0.1'
 
 }
+apply from: '../bintray.gradle'
 
